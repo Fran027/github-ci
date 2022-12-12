@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "fc2dcbd8-04ca-416c-ab2d-ff79e7171e92",
+		"name": "viacep-consulta",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23985119"
+	},
+	"item": [
+		{
+			"name": "viacep-consulta",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
